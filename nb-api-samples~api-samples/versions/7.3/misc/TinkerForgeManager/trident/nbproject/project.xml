@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://www.netbeans.org/ns/project/1">
+    <type>org.netbeans.modules.apisupport.project</type>
+    <configuration>
+        <data xmlns="http://www.netbeans.org/ns/nb-module-project/3">
+            <code-name-base>org.pushingpixels.trident</code-name-base>
+            <suite-component/>
+            <module-dependencies/>
+            <public-packages>
+                <package>org.pushingpixels.trident</package>
+                <package>org.pushingpixels.trident.android</package>
+                <package>org.pushingpixels.trident.callback</package>
+                <package>org.pushingpixels.trident.ease</package>
+                <package>org.pushingpixels.trident.interpolator</package>
+                <package>org.pushingpixels.trident.swing</package>
+                <package>org.pushingpixels.trident.swt</package>
+            </public-packages>
+            <class-path-extension>
+                <runtime-relative-path>ext/trident-6.2.jar</runtime-relative-path>
+                <binary-origin>release/modules/ext/trident-6.2.jar</binary-origin>
+            </class-path-extension>
+        </data>
+    </configuration>
+</project>
